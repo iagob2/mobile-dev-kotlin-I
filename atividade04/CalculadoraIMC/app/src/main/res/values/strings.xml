@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="finaliza_tela_de_respota">finaliza tela de respota</string>
+    <string name="button">Button</string>
+</resources>
