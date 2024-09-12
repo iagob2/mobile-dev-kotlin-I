@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listafilme</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="adcione_o_nome_do_diretor">Adcione o nome do Diretor</string>
+    <string name="adcione_o_nome_do_filme">Adcione o nome do filme</string>
+    <string name="primeira_pagina">Primeira pagina</string>
+</resources>
