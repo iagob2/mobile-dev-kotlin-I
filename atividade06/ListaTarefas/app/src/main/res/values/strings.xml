@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaDeTarefas</string>
+    <string name="adicioonar">Adicioonar</string>
+    <string name="descri_o">Descrição:</string>
+</resources>
