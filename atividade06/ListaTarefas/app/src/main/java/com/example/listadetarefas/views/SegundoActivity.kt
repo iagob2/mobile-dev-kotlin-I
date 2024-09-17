@@ -25,5 +25,7 @@ class SegundoActivity : AppCompatActivity() {
         recycler.layoutManager = LinearLayoutManager(this)
         recycler.adapter = AdapterListaTarefas(listTarefas)
 
+
+
     }
 }

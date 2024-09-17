@@ -2,17 +2,17 @@ package com.example.listadetarefas.dao
 
 import com.example.listadetarefas.model.ListaT
 
-class ListaDaoTarefas:ListaDaoTarefasInterface {
+class ListaDaoTarefas : ListaDaoTarefasInterface {
     companion object {
-        private val tarefas  = mutableListOf<ListaT>();
+        private val tarefas = mutableListOf<ListaT>()  // Lista mutável
     }
 
     override fun adionarTarefa(tarefa: ListaT) {
-        Companion.tarefas.add(tarefa);
+        tarefas.add(tarefa)
     }
 
-    override  fun obterLista():List<ListaT>{
-        return Companion.tarefas
+    // Alterar o retorno para MutableList
+    override fun obterLista(): MutableList<ListaT> {
+        return tarefas  // Retorna a lista mutável
     }
-
 }
