@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">atividade08</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+</resources>
