@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">15408543644</string>
-    <string name="google_api_key" translatable="false">AIzaSyCdQa74Baeh4NOU3d8WQN52Tlc-r8Ojj2A</string>
-    <string name="google_app_id" translatable="false">1:15408543644:android:60ecb1b3ba20a828d67a59</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCdQa74Baeh4NOU3d8WQN52Tlc-r8Ojj2A</string>
-    <string name="google_storage_bucket" translatable="false">appfatec-86f2f.appspot.com</string>
-    <string name="project_id" translatable="false">appfatec-86f2f</string>
-</resources>
