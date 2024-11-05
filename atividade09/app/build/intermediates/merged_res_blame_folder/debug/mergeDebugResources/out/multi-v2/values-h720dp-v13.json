@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.edu.fatecpg.app-mergeDebugResources-38:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aluno\\.gradle\\caches\\transforms-4\\2a223048f812d98bc80597d4ca4fe326\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
